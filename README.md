@@ -10,3 +10,6 @@ Things I am about to implement:
 - [ ] postal package monitor
 - [ ] events/apointments remainder (days off, public holidays, birthdays etc.)
 - [ ] movies in cinemas 
+- [ ] todays PackPub book
+- [ ] new video posted to one of watched YouTube channel
+- [ ] new Twitch stream by watched streamer 
