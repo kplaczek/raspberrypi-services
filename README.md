@@ -13,3 +13,5 @@ Things I am about to implement:
 - [ ] todays PackPub book
 - [ ] new video posted to one of watched YouTube channel
 - [ ] new Twitch stream by watched streamer 
+- [ ] check if other computer on network is on
+- [ ] check if website if online  
